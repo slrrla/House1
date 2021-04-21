@@ -10,6 +10,8 @@ export default function App() {
         <Text style= {styles.Text}>방한칸 외계인</Text>
       </flex>
       
+
+      
       <StatusBar style="auto" />
       
 
